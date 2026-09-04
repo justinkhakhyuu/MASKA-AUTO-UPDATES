@@ -27,6 +27,20 @@
                                  "changed":  [
                                                  "Test New Functions like enemy pull climb up etc.."
                                              ]
+                             },
+                   "1.0.3":  {
+                                 "added":  [
+                                               "New Functions"
+                                           ],
+                                 "removed":  [
+                                                 "Ban Functions"
+                                             ],
+                                 "fixed":  [
+                                               "ESP"
+                                           ],
+                                 "changed":  [
+                                                 "Please test new functions"
+                                             ]
                              }
                }
 }
