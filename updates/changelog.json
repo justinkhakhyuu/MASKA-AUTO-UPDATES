@@ -13,6 +13,20 @@
                                  "changed":  [
                                                  "please test new functions"
                                              ]
+                             },
+                   "1.0.2":  {
+                                 "added":  [
+                                               "New Functions"
+                                           ],
+                                 "removed":  [
+                                                 "Hooks"
+                                             ],
+                                 "fixed":  [
+                                               "ESP"
+                                           ],
+                                 "changed":  [
+                                                 "Test New Functions like enemy pull climb up etc.."
+                                             ]
                              }
                }
 }
