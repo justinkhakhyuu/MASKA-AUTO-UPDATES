@@ -1,1 +1,18 @@
-{}
+﻿{
+    "brutal":  {
+                   "1.0.1":  {
+                                 "added":  [
+                                               "new functions"
+                                           ],
+                                 "removed":  [
+                                                 "hooks"
+                                             ],
+                                 "fixed":  [
+                                               "esp"
+                                           ],
+                                 "changed":  [
+                                                 "please test new functions"
+                                             ]
+                             }
+               }
+}
