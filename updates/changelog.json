@@ -55,6 +55,20 @@
                                  "changed":  [
 
                                              ]
+                             },
+                   "1.0.5":  {
+                                 "added":  [
+                                               "NEW FF SUPPORT"
+                                           ],
+                                 "removed":  [
+
+                                             ],
+                                 "fixed":  [
+                                               "BAN BLACKLIST"
+                                           ],
+                                 "changed":  [
+
+                                             ]
                              }
                }
 }
