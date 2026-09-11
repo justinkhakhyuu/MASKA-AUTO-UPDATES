@@ -41,6 +41,20 @@
                                  "changed":  [
                                                  "Please test new functions"
                                              ]
+                             },
+                   "1.0.4":  {
+                                 "added":  [
+                                               "New ff max support"
+                                           ],
+                                 "removed":  [
+
+                                             ],
+                                 "fixed":  [
+                                               "Ban"
+                                           ],
+                                 "changed":  [
+
+                                             ]
                              }
                }
 }
